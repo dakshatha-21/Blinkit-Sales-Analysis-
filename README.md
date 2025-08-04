@@ -38,26 +38,41 @@ Use geographic mapping for sales distribution
 Display metrics like Total Sales, Avg. Sales, Ratings, etc., using Matrix Cards
 
 📈 KPI Metrics Tracked
+
 💰 Total Sales: $1.20M from 8,523 items
+
 ⭐ Average Rating: 3.9
+
 🥦 Top-Selling Item Type: Fruits and Vegetables ($178.1K)
+
 🥛 Fat Content Preference: Regular items contribute 65% of total sales
+
 🏬 Best Performing Outlet Size: Medium outlets ($507.9K in sales)
+
 🌍 Top Performing Tier: Tier 3 locations led with $472.1K in sales
+
 🛒 Outlet Type Leader: Supermarket Type 1 with $787.5K in sales
 
 
 🌟 **Key Insights**
+
 Fat content significantly impacts total sales and customer rating
+
 Certain item types contribute disproportionately to total revenue
+
 Newer outlets may outperform older ones in certain locations
+
 Outlet size and type are directly linked to sales efficiency
 
 🛠️ **Tools Used**
 Microsoft Excel
+
 Pivot Tables
+
 Donut, Bar, Line, Column, and Funnel Charts
+
 Conditional Formatting
+
 Data Cleaning Techniques
 
 
